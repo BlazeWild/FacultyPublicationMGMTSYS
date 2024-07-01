@@ -55,4 +55,4 @@ You need to have Python installed! Suitable python version is 3.9.
 
 And finally run the command:
 
-```python managa.py runserver```
+```python manage.py runserver```
