@@ -1,8 +1,5 @@
 # FacultyPublicationMGMTSYS
 
-
-# Faculty Publication Management
-
 ## About the Project
 
 Faculty Publication Management is a project done as a mini project for Software Engineering, a course offered by the Institute of Engineering, Tribhuvan University. It helped us apply the concepts of various web technologies and realise the potential of web technologies in a real world project.
